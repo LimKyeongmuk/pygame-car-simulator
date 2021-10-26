@@ -1,6 +1,6 @@
 # pygame_car-simulator
 ## Video
-https://youtu.be/YI30ybn8uGY
+[![주행영상](https://img.youtube.com/vi/YI30ybn8uGY/0.jpg)](https://youtu.be/YI30ybn8uGY) 
 
 ## Goal
 - 배경과 자동차의 충돌을 감지하는 시뮬레이터
